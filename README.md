@@ -26,7 +26,7 @@ hooks:
         cmd:
           - mkdir -p plugins
           - git clone https://github.com/discourse/docker_manager.git
-          - git clone https://github.com/sg/fa-emoji.git
+          - git clone https://github.com/sgcoldsun/fa-emoji.git
 ```
 
 * Rebuild the container
